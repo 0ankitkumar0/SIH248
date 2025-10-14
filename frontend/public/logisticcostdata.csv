@@ -1,0 +1,6 @@
+﻿material,destination,transport_cost_per_ton,loading_cost_per_ton,penalty_cost_per_ton
+HR Coil,Ranchi Warehouse,22,4,12
+CR Sheet,Jamshedpur Hub,26,5,14
+Wire Rod,Kolkata Yard,18,4,10
+Plates,Patna Stockyard,20,3,9
+HR Coil,Dhanbad Depot,19,4,11

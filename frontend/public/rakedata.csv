@@ -1,0 +1,4 @@
+﻿rake_id,wagon_type,wagons_available,wagon_capacity_ton,home_depot,available_date,loading_point
+Rake-01,BOXN,40,58,Bokaro,10/14/2025,LP-1
+Rake-02,BOXNHL,45,60,Bokaro,10/14/2025,LP-2
+Rake-03,BRN,35,55,Bokaro,10/15/2025,LP-3

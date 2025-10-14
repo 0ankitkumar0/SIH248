@@ -1,0 +1,4 @@
+order_id,material,quantity,destination
+O1,IronOre,5000,CMO1
+O2,Pellets,3000,CustomerA
+O3,IronOre,2000,CustomerB

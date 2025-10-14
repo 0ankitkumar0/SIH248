@@ -1,0 +1,6 @@
+﻿order_id,material,quantity,due_date,priority,mode,destination,transport_mode
+ORD-101,HR Coil,420,10/14/2025,High,Rail,Ranchi Warehouse,Rail
+ORD-102,CR Sheet,280,10/16/2025,High,Rail,Jamshedpur Hub,Rail
+ORD-103,Wire Rod,190,10/15/2025,Medium,Road,Kolkata Yard,Road
+ORD-104,HR Coil,260,10/18/2025,Medium,Rail,Dhanbad Depot,Rail
+ORD-105,Plates,160,10/17/2025,Low,Rail,Patna Stockyard,Rail

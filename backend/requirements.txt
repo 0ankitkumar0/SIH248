@@ -1,0 +1,10 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pydantic==1.10.11
+python-multipart==0.0.5
+# Use a widely available numpy build for Windows/Python combinations
+# numpy 1.26.x has broad wheel availability; 1.27.x sometimes requires very recent toolchain
+numpy==1.26.4
+pandas==2.2.2
+pulp==2.7.0
+requests==2.31.0

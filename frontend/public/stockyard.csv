@@ -1,0 +1,5 @@
+﻿stockyard,material,quantity_available,loading_point,replenishment_eta,transport_cost_per_ton
+Yard-A,HR Coil,800,LP-1,10/20/2025,17
+Yard-B,CR Sheet,380,LP-2,10/19/2025,19
+Yard-C,Wire Rod,260,LP-3,10/21/2025,18
+Yard-A,Plates,210,LP-1,10/22/2025,16
